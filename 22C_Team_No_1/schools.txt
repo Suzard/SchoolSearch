@@ -1,0 +1,25 @@
+4695|Technion - Israel Institute of Technology|Israel|A|7941
+8522|San Jose State University|United States|S|19601
+0635|National University of Singapore|Singapore|A|27130
+3549|University of Oxford|United Kingdom|A|44582
+1337|Stanford University|United States|A|49617
+2125|California Institute of Technology|United States|A|49908
+3798|De Anza College|United States|S|8595
+6194|Massachusetts Institute of Technology|United States|A|850
+1852|Eidgenossische Technische Hochschule Zurich|Switzerland|A|1310
+8440|Harvard University|United States|A|850
+8504|University of California, Berkeley|United States|A|42184
+1608|University of British Columbia|Canada|B|29412
+6570|Tsinghua University|China|A|7500
+3680|Ecole normale superieure|France|A|6557
+0699|Ecole Polytechnique Federale de Lausanne|Switzerland|A|1253
+4800|Technical University of Munich|Germany|B|290
+8333|University of Granada|Spain|B|850
+9800|Moscow State University|Russia|B|8260
+2360|University of Vienna|Austria|C|1632
+7344|Babes-Bolyai University|Romania|B|5388
+8201|University of Cape Town|South Africa|B|850
+5042|Indian Institute of Science|India|B|4000
+5401|Cayetano Heredia University|Peru|C|12500
+3317|University of Tokyo|Japan|A|4716
+0165|Seoul National University|South Korea|A|5558
